@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T04:07:12.146Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="75OLDzmn2LIoO8EUY-YF" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-12T04:11:25.157Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="YB1CFWE80vsT7aJUz41N" version="15.9.4" type="github">
   <diagram id="TTCX6_-geniZRcMNhM9k" name="Page-1">
-    <mxGraphModel dx="1475" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1383" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -417,6 +417,18 @@
         </mxCell>
         <mxCell id="VQnZYBjSF4eU1Xg8U7Mv-175" value="TC" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.dresser;sketch=1;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;strokeColor=#FF0000;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="70" y="1518.5" width="40" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="VQnZYBjSF4eU1Xg8U7Mv-176" value="sleeping bag" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.bed_single;sketch=1;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;strokeColor=#FF0000;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1598" width="24.7" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="VQnZYBjSF4eU1Xg8U7Mv-178" value="AT" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.floor_lamp;sketch=1;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;strokeColor=#FF0000;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="133" y="1520.5" width="37" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="VQnZYBjSF4eU1Xg8U7Mv-179" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.stairsRest;sketch=1;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;strokeColor=#FF0000;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="608.64" y="1233" width="71" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="VQnZYBjSF4eU1Xg8U7Mv-180" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.stairsRest;sketch=1;fontFamily=Open Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;strokeColor=#FF0000;fillColor=#E6E6E6;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="377.99999999999994" y="1233.25" width="71" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
